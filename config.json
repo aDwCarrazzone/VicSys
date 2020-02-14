@@ -1,0 +1,12 @@
+{
+    "company":{
+        "name":"CompanyName"
+    },
+    "database":{
+        "host":"Database_Host",
+        "username":"Database_Username",
+        "password": "Database_Password",
+        "database": "Database_Name"
+
+    }
+}
